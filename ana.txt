@@ -1,2 +1,3 @@
 probando en subir este repositorio
 ahora lo voy a realizar todo con git
+de apoco entendiendo y acordandome de los comandos
