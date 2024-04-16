@@ -1,1 +1,2 @@
 probando en subir este repositorio
+ahora lo voy a realizar todo con git
